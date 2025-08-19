@@ -44,14 +44,18 @@ Edit
 ### 1. Clone the repository
 
 git clone https://github.com/muruganantham-d/Python_FastAPI_PostgresSQL_CRUD.git
+
 cd bookstore-api
 
 2. Create and activate a virtual environment
+
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows 
 
 3. Install dependencies
+
 pip install -r requirements.txt
 
 5. Set up PostgreSQL
@@ -61,10 +65,12 @@ Create the database:
 
 createdb bookstore
 Add a .env file in the root:
+
 DATABASE_URL=postgresql://postgres:your_password@localhost:5432/bookstore
 
 
 5. Run the app
+
 uvicorn main:app --reload
 
 🔗 API Endpoints
@@ -104,6 +110,7 @@ Copy
 Edit
 
 ---
+
 
 
 
