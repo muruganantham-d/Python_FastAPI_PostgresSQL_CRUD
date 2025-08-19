@@ -1,7 +1,6 @@
 # 📚 Bookstore API (FastAPI + PostgreSQL)
 
-A simple CRUD API built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL** for managing books.  
-This project is structured for scalability and easy onboarding of new developers.
+A simple CRUD API built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**
 
 ---
 
@@ -117,15 +116,4 @@ Edit
 
 ---
 
-✅ Just save this as `README.md` in your project root.  
 
-Do you also want me to create the **requirements.txt file** for this exact project so new devs can install everything with one command?
-
-
-
-
-
-
-
-
-Ask ChatGPT
