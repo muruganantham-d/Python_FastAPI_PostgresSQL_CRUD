@@ -1,0 +1,41 @@
+# Python cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VSCode / IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Uvicorn / FastAPI reload temp
+*.pid
+
+# Jupyter notebooks checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Migrations (if using Alembic later, keep versions/ if needed)
+migrations/
